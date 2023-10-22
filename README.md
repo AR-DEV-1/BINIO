@@ -1,2 +1,2 @@
 # BINIO
-A app written in C ++ that writes numbers in Binary format
+A simple app written in C ++ that writes numbers in Binary format
