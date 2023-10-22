@@ -22,7 +22,7 @@ int main()
 
     for(j=0; j<MAX; j++)
       if ( buff[j] != j )
-      { cerr << "Data is incorrect/corrupted, Restart the app\n"; return 1; }
-  cout << "Data has been accessed with ease , It has been written!\n";
+      { cerr << "Data is incorrect/corrupted, Restart the app \n"; return 1; }
+  cout << "Data has been accessed with ease , It has been written! \n";
   return 0;
 }
